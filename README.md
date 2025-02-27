@@ -18,6 +18,8 @@ Peço a compreensão de todos que entandam que uma única pessoa não é capaz d
 
 # Dowload de versão
 
-Para fazer o dowload da versão mais recente execute o código:
+Para fazer o dowload da versão mais recente execute o comandos dentro do terminal do Visual Studio Code:
 
-curl -L "https://github.com/Tetecola/Orne-Code/blob/main/versoes/orne-code-2.1.0.vsix" -o sua-extensao.vsix && code --install-extension orne-code-2.1.0.vsix
+  Invoke-WebRequest -Uri "https://github.com/Tetecola/Orne-Code/releases/download/v2.1.0/orne-code-2.1.0.vsix" -OutFile "orne-code.vsix"
+
+  code --install-extension orne-code.vsix
