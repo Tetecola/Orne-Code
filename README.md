@@ -1,25 +1,23 @@
-# Orne-Code
+# **Orne Code**
 
-Esta linguagem foi desenvolvida com o objetivo de facilitar o desenvolvimento de jogos singleplayer, a linguagem conta com 2 (dois) sistemas que fazem ela ser tão simples e intuitiva:
+Esta linguagem tem como objetivo **ajudar novos programadores** do ramo de jogos a desenvolver **jogos simples** de forma **rápida e precisa.**
 
-# ESCRITA
+A linguagem Orne conta com **dois pilares principais** ajudar os desenvolvedores durante a programação:
 
-A escrita do Orne-Code foi feita em base a desenvolvedores brasileiros, portanto sua escrita é totalmente em português.
+### 1. **Sintaxe**
 
-# BIBLIOTECA
+A sintaxe do Orne Code foi moldada para **desenvolvedores brasileiros**, trazendo uma **escrita totalmente em português**. Isso permite que o programador **fique focado na lógica do jogo**, sem se preocupar com a gramática do inglês, como ocorre em outras linguagens.
 
-O Orne-Code conta com uma biblioteca com pequenos trechos de códigos que ajudam a remover o básico de desenvolvimento de alguns códigos, como movimentação de mapa, construção de camadas, entre outras coisas.
+### 2. **Biblioteca**
 
-Observação: O Orne-Code está em um estágio inicial de seu desenvolvimento, então pode haver bugs não perceptíveis no momento do desenvolvimento do jogo ou códigos que pareçam necessários a alguns usuários desta linguagem.
+A **biblioteca do Orne** Code está em **desenvolvimento constante** e tem como objetivo **evitar códigos repetidos** em vários projetos. Ela auxilia os desenvolvedores ao fornecer **códigos reutilizáveis para tarefas comuns**, otimizando o desenvolvimento de jogos.
 
-Peço a compreensão de todos que entandam que uma única pessoa não é capaz de desenvolver toda essa linguagem sozinho, mas espero um dia chegar e ver uma gama de oportunidades que essa linguagem possa abrir.
+### **Observações**
 
+- O Orne-Code está em um estágio inicial de seu desenvolvimento, então pode haver bugs não perceptíveis no momento do desenvolvimento do jogo ou códigos que pareçam necessários a alguns usuários desta linguagem.
 
+- Peço a compreensão de todos que entandam que uma única pessoa não é capaz de desenvolver toda essa linguagem sozinho, mas espero um dia chegar e ver uma gama de oportunidades que essa linguagem possa abrir.
 
-# Dowload de versão
+### Links
 
-Para fazer o dowload da versão mais recente execute o comandos dentro do terminal do Visual Studio Code:
-
-  Invoke-WebRequest -Uri "https://github.com/Tetecola/Orne-Code/releases/download/v2.1.0/orne-code-2.1.0.vsix" -OutFile "orne-code.vsix"
-
-  code --install-extension orne-code.vsix
+[Passo a passo para fazer o download da extensão](./DOWLOAD.md)
